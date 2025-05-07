@@ -1,0 +1,19 @@
+.text-title{
+  font-family: Arial;
+  font-weight:bold ;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 0px;
+  margin-bottom: 15px;
+}
+.text-body{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 0px;
+  
+}
+.touch:hover{
+  color: rgb(175, 175, 72);
+  text-decoration: underline;
+  cursor: pointer;
+}
